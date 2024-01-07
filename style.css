@@ -1,0 +1,24 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 1;
+    background-color: rgb(217, 223, 56);
+}
+
+.container {
+    text-align: center;
+}
+
+button {
+    background-color: rgb(64, 64, 216);
+    color: white;
+    margin-top: 10px;
+}
+
+h1{
+    color: rgb(64, 64, 216);
+    font-style: italic;
+}
+
